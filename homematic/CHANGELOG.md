@@ -1,5 +1,9 @@
 # Changelog
 
+## 10.4
+
+- Bump occu version
+
 ## 10.3
 
 - Flush ReGaHss config on shutdown

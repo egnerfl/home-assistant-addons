@@ -10,9 +10,6 @@ This add-on allows you to control your HomeMatic devices so they can be
 integrated into Home Assistant. It is based on the
 [HomeMatic Open Central Control Unit (OCCU) SDK][occu].
 
-Note: Requires a [HM-MOD-RPI-PCB][hm-mod-rpi-pcb] or [HmIP-RFUSB][hmip-rufsb]
-to interface with your devices.
-
 ## Features
 
 - Your Raspberry Pi is your HomeMatic control center!
