@@ -58,5 +58,5 @@
     ],
     "regahss_reset": "bool?"
   },
-  "image": "homeassistant/{arch}-addon-homematic"
+  "image": "homeassistant/{arch}-addon-egnerfl-homematic"
 }
